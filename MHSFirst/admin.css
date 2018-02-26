@@ -1,0 +1,37 @@
+﻿*{
+	font-family: Arial;
+	font-size: 18px;
+}
+
+textarea{
+	border: solid 2px blue;
+	outline: none;
+}
+
+::-webkit-input-placeholder{
+	color: #ACACAC;
+}
+
+:-moz-placeholder{
+	color: #ACACAC;
+}
+
+:-ms-input-placeholder{
+	color: #ACACAC;
+}
+
+input[type=submit]{
+	color: blue;
+	background: none;
+	border: solid;
+	border-radius: 10px;
+}
+
+.home a{
+	color: black;
+	text-decoration: none;
+}
+
+.home a:hover{
+	text-decoration: underline;
+}
